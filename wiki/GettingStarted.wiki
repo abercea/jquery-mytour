@@ -1,0 +1,11 @@
+#summary One-sentence summary of this page.
+#labels Featured
+
+= Introduction =
+
+Have you ever though into create a virtual tour for visitants of your website? With a tour you can guide people who access your site across the main information or funcionalities! Isn't cool?
+
+
+= Details =
+
+Coming soon.
