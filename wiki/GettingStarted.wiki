@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Learn how to use MyTour on your website.
 #labels Featured
 
 = Introduction =
